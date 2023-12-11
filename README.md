@@ -20,6 +20,11 @@ The pinnacle of Snake's popularity coincided with its inclusion as the preloaded
 4. The development cost for this project is expected to be minimal.
 5. Notably, the prototype has been built using Visual Basic 6.0, limiting compatibility to Windows systems. Additionally, it is acknowledged that the game mechanics may be considered inferior compared to Snake games on other platforms.
 
+## Screenshots:
+
+![](https://i.imgur.com/5T8iOTz.png)
+![](https://i.imgur.com/QWIDShb.png)
+
 ## Demo:
 
 Here's a brief demonstration of the game (KHAI-KHAI): [Demo Video](https://www.youtube.com/watch?v=f3yzAGWisMg)
