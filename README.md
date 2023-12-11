@@ -50,7 +50,7 @@ We plan to enhance both the graphics and inner mechanisms of the game, bringing 
 
 Developed exclusively in Visual Basic 6.0, this project is confined to compatibility with Windows systems. The game's mechanics are deemed less sophisticated compared to snake games available on numerous other platforms.
 
-## Estimations:
+## Estimation:
 
 - **Cost Estimation**: The development cost for this program is exceptionally low, making it accessible to anyone with a computer equipped with Visual Basic 6.0.
 
