@@ -42,11 +42,11 @@ Visual Basic is an event-driven, third-generation programming language that debu
 
 It is an easily understandable and addictive game, boasting a lightweight design that minimizes RAM consumption. The game offers three difficulty levels: Easy, Medium, and Hard, each corresponding to 5, 10, and 20 points, respectively. Please note that it is compatible exclusively with Windows operating systems.
 
-## Future Plans:
+## Future Plan:
 
 We plan to enhance both the graphics and inner mechanisms of the game, bringing them up to modern standards. Additionally, we aim to explore the implementation of the game in various programming languages, including HTML, PHP, Java, C, C++, and newer versions of VB such as 2008, 2010, and 2015. This initiative will enable us to reach a wider audience and adapt the game to diverse development environments.
 
-## Limitations:
+## Limitation:
 
 Developed exclusively in Visual Basic 6.0, this project is confined to compatibility with Windows systems. The game's mechanics are deemed less sophisticated compared to snake games available on numerous other platforms.
 
@@ -56,6 +56,6 @@ Developed exclusively in Visual Basic 6.0, this project is confined to compatibi
 
 - **Software Size Estimation**: The game has a minimal overall size of 816 kilobytes (KB), enhancing its portability and requiring very little RAM. However, due to continuous daily implementations of new features, the size of the game gradually increases over time.
 
-## Applications:
+## Application:
 
 This game can: improve concentration and memory skills, elevate hand-eye coordination, deliver street-busting excitement, and offer overall enjoyment.
