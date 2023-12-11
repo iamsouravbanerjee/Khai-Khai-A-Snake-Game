@@ -10,15 +10,7 @@ The pinnacle of Snake's popularity coincided with its inclusion as the preloaded
 
 ## Problem Statement:
 
- - Our goal is to create a prototype of the well-known Snake Game.
-
-## Real-world/Business Objectives and Constraints:
-
-1. The game aims to be highly intuitive and addictive for users.
-2. It should have a minimal footprint, consuming low RAM resources.
-3. There are no stringent concerns regarding latency in the game's performance.
-4. The development cost for this project is expected to be minimal.
-5. Notably, the prototype has been built using Visual Basic 6.0, limiting compatibility to Windows systems. Additionally, it is acknowledged that the game mechanics may be considered inferior compared to Snake games on other platforms.
+ - **We aim to develop a prototype for the renowned Snake Game**
 
 ## Screenshots:
 
@@ -28,3 +20,42 @@ The pinnacle of Snake's popularity coincided with its inclusion as the preloaded
 ## Demo:
 
 Here's a brief demonstration of the game (KHAI-KHAI): [Demo Video](https://www.youtube.com/watch?v=f3yzAGWisMg)
+
+## About this Game (Khai - Khai):
+
+In our project, we have chosen to develop the well-known game "Snake" using VB 6.0. The game features a compact size, and both the code and graphics are straightforward, making it an excellent VB project for beginners. The game is structured into three levels: easy, medium, and hard, providing players with varying levels of difficulty to enhance their gaming experience.
+
+## Real-world/Business Objectives and Constraints:
+
+1. The game aims to be highly intuitive and addictive for users.
+2. It should have a minimal footprint, consuming low RAM resources.
+3. There are no stringent concerns regarding latency in the game's performance.
+4. The development cost for this project is expected to be minimal.
+5. Notably, the prototype has been built using Visual Basic 6.0, limiting compatibility to Windows systems. Additionally, it is acknowledged that the game mechanics may be considered inferior compared to Snake games on other platforms.
+
+## About Visual Basic 6.0:
+
+Visual Basic is an event-driven, third-generation programming language that debuted in 1991, with VB 6 following in 1998. Alan Cooper is credited with creating the drag-and-drop design for Visual Basic's user interface. Notably, VB 6 remains compatible with the latest Windows operating systems.
+
+
+## Features:
+
+It is an easily understandable and addictive game, boasting a lightweight design that minimizes RAM consumption. The game offers three difficulty levels: Easy, Medium, and Hard, each corresponding to 5, 10, and 20 points, respectively. Please note that it is compatible exclusively with Windows operating systems.
+
+## Future Plans:
+
+We plan to enhance both the graphics and inner mechanisms of the game, bringing them up to modern standards. Additionally, we aim to explore the implementation of the game in various programming languages, including HTML, PHP, Java, C, C++, and newer versions of VB such as 2008, 2010, and 2015. This initiative will enable us to reach a wider audience and adapt the game to diverse development environments.
+
+## Limitations:
+
+Developed exclusively in Visual Basic 6.0, this project is confined to compatibility with Windows systems. The game's mechanics are deemed less sophisticated compared to snake games available on numerous other platforms.
+
+## Estimations:
+
+- **Cost Estimation**: The development cost for this program is exceptionally low, making it accessible to anyone with a computer equipped with Visual Basic 6.0.
+
+- **Software Size Estimation**: The game has a minimal overall size of 816 kilobytes (KB), enhancing its portability and requiring very little RAM. However, due to continuous daily implementations of new features, the size of the game gradually increases over time.
+
+## Applications:
+
+This game can: improve concentration and memory skills, elevate hand-eye coordination, deliver street-busting excitement, and offer overall enjoyment.
