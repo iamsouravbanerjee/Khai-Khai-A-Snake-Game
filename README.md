@@ -1,6 +1,6 @@
 # Khai-Khai - A Snake Game
 
-![](https://i.imgur.com/Eien2vL.png)
+![](https://i.imgur.com/L7M3yeO.png)
 
 Snake, a classic arcade video game originating in the mid-1970s, has successfully stood the test of time, maintaining popularity since its inception. The game's widespread acclaim reached new heights when it became the default pre-loaded option on Nokia phones in 1998, captivating a massive audience. Players engage in navigating a snake-like creature across a bordered plane, collecting food while strategically avoiding collisions with its own tail or the enclosing "walls." The dynamic challenge intensifies as the snake's tail grows longer with each consumed piece of food. Users exert control over the snake's direction using up, down, left, or right movements, and the body obediently follows, creating a seamless and continuous gaming experience.
 
