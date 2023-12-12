@@ -19,9 +19,7 @@ The pinnacle of Snake's popularity coincided with its inclusion as the preloaded
 
 ## Demo:
 
-![](https://i.imgur.com/gA8TOFk.gif)
-
-Here's the full demonstration of the game (KHAI-KHAI): [Demo Video](https://www.youtube.com/watch?v=f3yzAGWisMg)
+Uploading Making KHAI - KHAI (A SNAKE GAME) using VB 6.0.mp4…
 
 ## About this Game (Khai - Khai):
 
