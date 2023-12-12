@@ -19,7 +19,9 @@ The pinnacle of Snake's popularity coincided with its inclusion as the preloaded
 
 ## Demo:
 
-Here's a brief demonstration of the game (KHAI-KHAI): [Demo Video](https://www.youtube.com/watch?v=f3yzAGWisMg)
+![](https://i.imgur.com/gA8TOFk.gif)
+
+Here's the full demonstration of the game (KHAI-KHAI): [Demo Video](https://www.youtube.com/watch?v=f3yzAGWisMg)
 
 ## About this Game (Khai - Khai):
 
