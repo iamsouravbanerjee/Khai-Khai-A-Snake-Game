@@ -19,7 +19,7 @@ The pinnacle of Snake's popularity coincided with its inclusion as the preloaded
 
 ## Demo:
 
-https://github.com/iamsouravbanerjee/Khai-Khai-A-Snake-Game/assets/32125607/720ac959-95e8-44ff-925a-9d28423fd7b8
+https://github.com/iamsouravbanerjee/Khai-Khai-A-Snake-Game/assets/32125607/2352e165-f69b-4a51-b034-9aebdcb8f168
 
 ## About this Game (Khai - Khai):
 
